@@ -69,10 +69,10 @@ PDF、Office 等文档的解析、转换和文本提取。
 | 项目 | 简介 | 我的点评 | 语言 | ⭐ Star |
 | --- | --- | --- | --- | --- |
 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages |  | JavaScript | 113.1k |
-| [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He |  | Python | 75.7k |
+| [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He |  | Python | 75.8k |
 | [chenglou/pretext](https://github.com/chenglou/pretext) | Fast, accurate & comprehensive text measurement & layout |  | TypeScript | 51k |
 | [alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design) | Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / 可编辑 PPTX / 动画 / 信息图 · 六个候选挑三个方向 · 84 种带样张的风格库 · 越用越懂你的外观账本与设计体检 · HTML-native design skill for Claude Code, Codex, Cursor & any agent |  | HTML | 29.2k |
-| [meta/astryx](https://github.com/meta/astryx) | An open source design system that's fully customizable and agent ready |  | TypeScript | 23.5k |
+| [meta/astryx](https://github.com/meta/astryx) | An open source design system that's fully customizable and agent ready |  | TypeScript | 23.6k |
 | [chuspeeism/dashi-ppt-skill](https://github.com/chuspeeism/dashi-ppt-skill) | An AI-agent skill that generates browser-editable presentations from multiple visual themes, exportable to HTML, PDF, and PPTX. |  | JavaScript | 10.6k |
 | [Inginnng/EditHere](https://github.com/Inginnng/EditHere) | EditHere — 截图、写下意见、直接调整布局，把修改意图一次交给 AI。 |  | C++ | 1.5k |
 
@@ -85,7 +85,7 @@ PDF、Office 等文档的解析、转换和文本提取。
 | 项目 | 简介 | 我的点评 | 语言 | ⭐ Star |
 | --- | --- | --- | --- | --- |
 | [openai/whisper](https://github.com/openai/whisper) | Robust Speech Recognition via Large-Scale Weak Supervision |  | Python | 112.4k |
-| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. |  | Python | 107.5k |
+| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. |  | Python | 107.6k |
 | [QwenAudio/SenseVoice](https://github.com/QwenAudio/SenseVoice) | Open-source SenseVoiceSmall model for Mandarin, Cantonese, English, Japanese, and Korean ASR, language ID, emotion recognition, and audio event detection. |  | C | 9.7k |
 | [Uberi/speech_recognition](https://github.com/Uberi/speech_recognition) | Speech recognition module for Python, supporting several engines and APIs, online and offline. |  | Python | 9k |
 | [OpenMOSS/MOSS-TTS](https://github.com/OpenMOSS/MOSS-TTS) | An open-source model family for long-form speech, dialogue synthesis, voice design, sound effects, and real-time streaming TTS |  | Python | 4.3k |
@@ -134,7 +134,7 @@ PDF、Office 等文档的解析、转换和文本提取。
 
 | 项目 | 简介 | 我的点评 | 语言 | ⭐ Star |
 | --- | --- | --- | --- | --- |
-| [ruvnet/RuView](https://github.com/ruvnet/RuView) | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. |  | Rust | 103.9k |
+| [ruvnet/RuView](https://github.com/ruvnet/RuView) | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. |  | Rust | 104k |
 | [makeplane/plane](https://github.com/makeplane/plane) | 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage. |  | TypeScript | 62.3k |
 | [shihabal3amri/DiPlay](https://github.com/shihabal3amri/DiPlay) | Independent CarPlay receiver for compatible Android head units. Wired and wireless public preview. |  | Kotlin | 13.6k |
 | [pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv) | 给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs. |  | Kotlin | 11.2k |
