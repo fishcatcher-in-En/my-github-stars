@@ -1,0 +1,74 @@
+{
+  "categories": [
+    {"id": "agents", "name": "🤖 AI 智能体与自动化", "description": "让 AI 操作浏览器、桌面和终端，自主完成编程等任务的智能体框架与工具。"},
+    {"id": "skills", "name": "🧩 Agent 技能与插件", "description": "给 Claude Code、Codex 等编程代理扩展能力的技能包、方法论和插件。"},
+    {"id": "docs", "name": "📄 文档处理与转换", "description": "PDF、Office 等文档的解析、转换和文本提取。"},
+    {"id": "design", "name": "🎨 设计、PPT 与前端", "description": "生成 PPT、设计稿和前端界面的工具与技能。"},
+    {"id": "speech", "name": "🎙️ 语音识别与合成", "description": "语音转文字（ASR）和文字转语音（TTS）的模型与工具。"},
+    {"id": "video", "name": "🎬 视频、字幕与动画", "description": "视频生成、字幕翻译与配音、数学动画和视频下载。"},
+    {"id": "learning", "name": "📚 学习资源与精选列表", "description": "教程、课程、电子书和 awesome 精选列表。"},
+    {"id": "tools", "name": "🛠️ 实用工具与其他", "description": "项目管理、车机、电视桌面、WiFi 感知、天气预报等。"}
+  ],
+  "repos": {
+    "browser-use/browser-use": {"category": "agents", "note": ""},
+    "Tencent/BrowserSkill": {"category": "agents", "note": ""},
+    "vercel-labs/agent-desktop": {"category": "agents", "note": ""},
+    "esengine/DeepSeek-Reasonix": {"category": "agents", "note": ""},
+    "msitarzewski/agency-agents": {"category": "agents", "note": ""},
+    "THU-MAIC/OpenMAIC": {"category": "agents", "note": ""},
+
+    "obra/superpowers": {"category": "skills", "note": ""},
+    "affaan-m/ECC": {"category": "skills", "note": ""},
+    "Imbad0202/academic-research-skills": {"category": "skills", "note": ""},
+    "tt-a1i/archify": {"category": "skills", "note": ""},
+    "Anionex/agent-vision-toolkit": {"category": "skills", "note": ""},
+    "virgiliojr94/book-to-skill": {"category": "skills", "note": ""},
+    "Egonex-AI/Understand-Anything": {"category": "skills", "note": ""},
+    "Graphify-Labs/graphify": {"category": "skills", "note": ""},
+
+    "microsoft/markitdown": {"category": "docs", "note": ""},
+    "docling-project/docling": {"category": "docs", "note": ""},
+    "firecrawl/pdf-inspector": {"category": "docs", "note": ""},
+    "KnifeLemon/Filee": {"category": "docs", "note": ""},
+
+    "hugohe3/ppt-master": {"category": "design", "note": ""},
+    "chuspeeism/dashi-ppt-skill": {"category": "design", "note": ""},
+    "alchaincyf/huashu-design": {"category": "design", "note": ""},
+    "Leonxlnx/taste-skill": {"category": "design", "note": ""},
+    "meta/astryx": {"category": "design", "note": ""},
+    "chenglou/pretext": {"category": "design", "note": ""},
+    "Inginnng/EditHere": {"category": "design", "note": ""},
+
+    "openai/whisper": {"category": "speech", "note": ""},
+    "huggingface/distil-whisper": {"category": "speech", "note": ""},
+    "QwenAudio/SenseVoice": {"category": "speech", "note": ""},
+    "Uberi/speech_recognition": {"category": "speech", "note": ""},
+    "OpenMOSS/MOSS-TTS": {"category": "speech", "note": ""},
+    "debpalash/VoiceStudio": {"category": "speech", "note": ""},
+
+    "3b1b/manim": {"category": "video", "note": ""},
+    "ManimCommunity/manim": {"category": "video", "note": ""},
+    "heygen-com/hyperframes": {"category": "video", "note": ""},
+    "harry0703/MoneyPrinterTurbo": {"category": "video", "note": ""},
+    "ATH-MaaS/Pixelle-Video": {"category": "video", "note": ""},
+    "WEIFENG2333/VideoCaptioner": {"category": "video", "note": ""},
+    "Huanshere/VideoLingo": {"category": "video", "note": ""},
+    "averygan/reclip": {"category": "video", "note": ""},
+
+    "datawhalechina/hello-agents": {"category": "learning", "note": ""},
+    "rohitg00/ai-engineering-from-scratch": {"category": "learning", "note": ""},
+    "Shubhamsaboo/awesome-llm-apps": {"category": "learning", "note": ""},
+    "521xueweihan/HelloGitHub": {"category": "learning", "note": ""},
+    "awesome-dsh-plugin/awesome-dsh-plugin": {"category": "learning", "note": ""},
+    "freestylefly/awesome-gpt-image-2": {"category": "learning", "note": ""},
+    "TapXWorld/ChinaTextbook": {"category": "learning", "note": ""},
+    "llwslc/grammar-club": {"category": "learning", "note": ""},
+    "byoungd/up": {"category": "learning", "note": ""},
+
+    "makeplane/plane": {"category": "tools", "note": ""},
+    "shihabal3amri/DiPlay": {"category": "tools", "note": ""},
+    "pengchujin/aerial-tv": {"category": "tools", "note": ""},
+    "ruvnet/RuView": {"category": "tools", "note": ""},
+    "google-deepmind/weathernext": {"category": "tools", "note": ""}
+  }
+}

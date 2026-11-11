@@ -1,0 +1,51 @@
+name: 更新 Star 列表
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # 每天 UTC 0 点（北京时间 8 点）
+  workflow_dispatch: # 允许在 Actions 页面手动运行
+  push:
+    branches: [main]
+    paths:
+      - "data/categories.json"
+      - "scripts/**"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-stars
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: 运行测试
+        run: python3 -m unittest discover -s tests
+
+      - name: 拉取 Star 列表
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          STARS_USER: ${{ github.repository_owner }}
+        run: python3 scripts/fetch_stars.py
+
+      - name: 生成 README
+        env:
+          STARS_USER: ${{ github.repository_owner }}
+        run: python3 scripts/build_readme.py
+
+      - name: 有变化时提交
+        run: |
+          git add README.md data/stars.json
+          if git diff --cached --quiet; then
+            echo "没有变化，跳过提交"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: 更新 Star 列表"
+          git pull --rebase
+          git push
