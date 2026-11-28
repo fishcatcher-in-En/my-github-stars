@@ -12,9 +12,9 @@
       "threejs",
       "websocket"
     ],
-    "stars": 14,
+    "stars": 67,
     "archived": false,
-    "pushed_at": "2026-11-27T01:10:31Z",
+    "pushed_at": "2026-11-27T07:31:56Z",
     "homepage": "https://scroll-remote.shizaishiwo.com",
     "license": "MIT",
     "starred_at": "2026-11-27T05:43:25Z"
@@ -31,7 +31,7 @@
       "gpt-4",
       "large-language-models"
     ],
-    "stars": 71725,
+    "stars": 71733,
     "archived": false,
     "pushed_at": "2026-01-25T12:33:10Z",
     "homepage": "https://github.com/binary-husky/gpt_academic/wiki/online",
@@ -51,9 +51,9 @@
       "multiagent",
       "react-flow"
     ],
-    "stars": 156984,
+    "stars": 156992,
     "archived": false,
-    "pushed_at": "2026-11-27T02:17:19Z",
+    "pushed_at": "2026-11-28T02:12:50Z",
     "homepage": "http://www.langflow.org",
     "license": "MIT",
     "starred_at": "2026-11-24T02:52:30Z"
@@ -84,9 +84,9 @@
       "uikit",
       "windsurf-ai"
     ],
-    "stars": 154727,
+    "stars": 155251,
     "archived": false,
-    "pushed_at": "2026-11-27T04:05:44Z",
+    "pushed_at": "2026-11-27T07:07:41Z",
     "homepage": "https://www.uupm.cc/",
     "license": "MIT",
     "starred_at": "2026-11-24T02:43:55Z"
@@ -116,9 +116,9 @@
       "prompts-chat",
       "typescript"
     ],
-    "stars": 178621,
+    "stars": 178720,
     "archived": false,
-    "pushed_at": "2026-11-27T03:13:20Z",
+    "pushed_at": "2026-11-28T03:12:48Z",
     "homepage": "https://prompts.chat",
     "license": "NOASSERTION",
     "starred_at": "2026-11-24T02:26:49Z"
@@ -149,7 +149,7 @@
       "software",
       "streaming"
     ],
-    "stars": 19343,
+    "stars": 20014,
     "archived": false,
     "pushed_at": "2026-11-26T14:05:12Z",
     "homepage": "https://gd.xychr.com/",
@@ -175,9 +175,9 @@
       "step",
       "stl"
     ],
-    "stars": 6180,
+    "stars": 6182,
     "archived": false,
-    "pushed_at": "2026-11-26T18:49:52Z",
+    "pushed_at": "2026-11-27T21:52:03Z",
     "homepage": "https://cadquery.org",
     "license": "NOASSERTION",
     "starred_at": "2026-11-20T06:59:57Z"
@@ -196,9 +196,9 @@
       "saas",
       "spreadsheet"
     ],
-    "stars": 9649,
+    "stars": 9724,
     "archived": false,
-    "pushed_at": "2026-11-26T22:44:24Z",
+    "pushed_at": "2026-11-28T01:06:58Z",
     "homepage": "",
     "license": "MIT",
     "starred_at": "2026-11-20T05:47:03Z"
@@ -230,9 +230,9 @@
       "swift",
       "web"
     ],
-    "stars": 58679,
+    "stars": 58612,
     "archived": false,
-    "pushed_at": "2026-11-27T05:49:15Z",
+    "pushed_at": "2026-11-28T04:10:01Z",
     "homepage": "https://appwrite.io",
     "license": "BSD-3-Clause",
     "starred_at": "2026-11-19T07:32:19Z"
@@ -263,7 +263,7 @@
       "ai-research-assistant",
       "multi-agent-systems"
     ],
-    "stars": 6538,
+    "stars": 6675,
     "archived": false,
     "pushed_at": "2026-11-15T18:08:08Z",
     "homepage": "https://yiwen-song.github.io/paper_orchestra/",
@@ -297,9 +297,9 @@
       "workflow-automation",
       "workflow-engine"
     ],
-    "stars": 6037,
+    "stars": 6100,
     "archived": false,
-    "pushed_at": "2026-11-27T04:45:06Z",
+    "pushed_at": "2026-11-28T00:25:21Z",
     "homepage": "https://loopforge.cn",
     "license": "NOASSERTION",
     "starred_at": "2026-11-16T08:41:43Z"
@@ -331,9 +331,9 @@
       "workspace",
       "xlsx"
     ],
-    "stars": 31994,
+    "stars": 32078,
     "archived": false,
-    "pushed_at": "2026-11-27T05:12:43Z",
+    "pushed_at": "2026-11-28T04:22:15Z",
     "homepage": "https://univer.ai",
     "license": "Apache-2.0",
     "starred_at": "2026-11-16T08:05:20Z"
@@ -344,9 +344,9 @@
     "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
     "language": "TypeScript",
     "topics": [],
-    "stars": 13362,
+    "stars": 13644,
     "archived": false,
-    "pushed_at": "2026-11-24T21:51:04Z",
+    "pushed_at": "2026-11-28T05:15:18Z",
     "homepage": "https://stitch.withgoogle.com/docs/mcp/setup",
     "license": "Apache-2.0",
     "starred_at": "2026-11-16T07:25:52Z"
@@ -357,9 +357,9 @@
     "description": "Keep your coding agent up to date with the latest web best practices",
     "language": "TypeScript",
     "topics": [],
-    "stars": 11299,
+    "stars": 11494,
     "archived": false,
-    "pushed_at": "2026-11-26T20:24:03Z",
+    "pushed_at": "2026-11-27T19:59:25Z",
     "homepage": "https://goo.gle/modern-web-guidance",
     "license": "Apache-2.0",
     "starred_at": "2026-11-13T09:36:38Z"
@@ -370,7 +370,7 @@
     "description": "Keep your coding agent up to date with the latest web best practices",
     "language": "",
     "topics": [],
-    "stars": 26762,
+    "stars": 27102,
     "archived": false,
     "pushed_at": "2026-11-23T14:54:26Z",
     "homepage": "https://goo.gle/modern-web-guidance",
@@ -392,9 +392,9 @@
       "mcp",
       "model-context-protocol"
     ],
-    "stars": 8140,
+    "stars": 8154,
     "archived": false,
-    "pushed_at": "2026-11-27T03:20:35Z",
+    "pushed_at": "2026-11-28T03:45:28Z",
     "homepage": "https://homeassistant-ai.github.io/ha-mcp/",
     "license": "MIT",
     "starred_at": "2026-11-12T09:52:18Z"
@@ -405,9 +405,9 @@
     "description": "An open source design system that's fully customizable and agent ready",
     "language": "TypeScript",
     "topics": [],
-    "stars": 33402,
+    "stars": 33559,
     "archived": false,
-    "pushed_at": "2026-11-27T05:51:38Z",
+    "pushed_at": "2026-11-28T05:36:04Z",
     "homepage": "http://astryx.atmeta.com",
     "license": "MIT",
     "starred_at": "2026-11-11T02:42:08Z"
@@ -418,9 +418,9 @@
     "description": "Independent CarPlay receiver for compatible Android head units. Wired and wireless public preview.",
     "language": "Kotlin",
     "topics": [],
-    "stars": 14253,
+    "stars": 14274,
     "archived": false,
-    "pushed_at": "2026-11-24T08:59:03Z",
+    "pushed_at": "2026-11-27T10:27:45Z",
     "homepage": "https://shihabal3amri.github.io/DiPlay/",
     "license": "GPL-3.0",
     "starred_at": "2026-11-04T09:52:18Z"
@@ -431,7 +431,7 @@
     "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
     "language": "Kotlin",
     "topics": [],
-    "stars": 13418,
+    "stars": 13484,
     "archived": false,
     "pushed_at": "2026-11-27T02:09:28Z",
     "homepage": "https://aerial.qust.me",
@@ -444,9 +444,9 @@
     "description": "EditHere — 截图、写下意见、直接调整布局，把修改意图一次交给 AI。",
     "language": "C++",
     "topics": [],
-    "stars": 1878,
+    "stars": 1884,
     "archived": false,
-    "pushed_at": "2026-11-26T16:06:38Z",
+    "pushed_at": "2026-11-27T14:06:25Z",
     "homepage": "",
     "license": "NOASSERTION",
     "starred_at": "2026-11-04T09:07:14Z"
@@ -478,9 +478,9 @@
       "video-converter",
       "windows"
     ],
-    "stars": 31657,
+    "stars": 32009,
     "archived": false,
-    "pushed_at": "2026-11-25T23:37:16Z",
+    "pushed_at": "2026-11-27T21:05:35Z",
     "homepage": "https://filee.sh",
     "license": "MIT",
     "starred_at": "2026-11-04T09:05:49Z"
@@ -504,9 +504,9 @@
       "mcp",
       "rust"
     ],
-    "stars": 26954,
+    "stars": 27136,
     "archived": false,
-    "pushed_at": "2026-11-27T01:07:48Z",
+    "pushed_at": "2026-11-28T00:52:09Z",
     "homepage": "https://agent-browser.dev/desktop",
     "license": "Apache-2.0",
     "starred_at": "2026-11-03T08:11:42Z"
@@ -523,9 +523,9 @@
       "math",
       "python"
     ],
-    "stars": 42964,
+    "stars": 43005,
     "archived": false,
-    "pushed_at": "2026-11-26T23:48:03Z",
+    "pushed_at": "2026-11-27T21:26:17Z",
     "homepage": "https://www.manim.community",
     "license": "MIT",
     "starred_at": "2026-10-30T08:24:31Z"
@@ -552,9 +552,9 @@
       "tables",
       "xlsx"
     ],
-    "stars": 71127,
+    "stars": 71155,
     "archived": false,
-    "pushed_at": "2026-11-26T21:54:36Z",
+    "pushed_at": "2026-11-27T16:45:19Z",
     "homepage": "https://docling-project.github.io/docling",
     "license": "MIT",
     "starred_at": "2026-10-14T07:20:36Z"
@@ -569,7 +569,7 @@
       "browser-use",
       "dsh-plugin"
     ],
-    "stars": 10765,
+    "stars": 10777,
     "archived": false,
     "pushed_at": "2026-11-26T07:10:06Z",
     "homepage": "",
@@ -600,9 +600,9 @@
       "web-automation",
       "web-scraping"
     ],
-    "stars": 122174,
+    "stars": 122250,
     "archived": false,
-    "pushed_at": "2026-11-27T03:20:23Z",
+    "pushed_at": "2026-11-28T04:47:43Z",
     "homepage": "https://browser-use.com",
     "license": "MIT",
     "starred_at": "2026-09-09T02:25:36Z"
@@ -634,10 +634,10 @@
       "video-editor",
       "video-generation"
     ],
-    "stars": 91014,
+    "stars": 91624,
     "archived": false,
-    "pushed_at": "2026-11-27T05:54:37Z",
-    "homepage": "https://hyperframes.heygen.com",
+    "pushed_at": "2026-11-28T05:28:45Z",
+    "homepage": "https://hyperframes.studio",
     "license": "Apache-2.0",
     "starred_at": "2026-09-08T07:41:50Z"
   },
@@ -656,9 +656,9 @@
       "peer-review",
       "prompt-engineering"
     ],
-    "stars": 58727,
+    "stars": 58879,
     "archived": false,
-    "pushed_at": "2026-11-27T02:59:06Z",
+    "pushed_at": "2026-11-27T23:49:47Z",
     "homepage": "https://buymeacoffee.com/crucify020v",
     "license": "NOASSERTION",
     "starred_at": "2026-09-08T07:02:39Z"
@@ -689,9 +689,9 @@
       "voicestudio",
       "workflow"
     ],
-    "stars": 119005,
+    "stars": 119458,
     "archived": false,
-    "pushed_at": "2026-11-27T05:34:51Z",
+    "pushed_at": "2026-11-28T02:00:06Z",
     "homepage": "https://voicestudio.sh",
     "license": "AGPL-3.0",
     "starred_at": "2026-09-03T09:03:36Z"
@@ -702,7 +702,7 @@
     "description": "《语法俱乐部》- 旋元佑",
     "language": "Shell",
     "topics": [],
-    "stars": 2331,
+    "stars": 2334,
     "archived": false,
     "pushed_at": "2026-10-31T07:13:00Z",
     "homepage": "https://llwslc.github.io/grammar-club/",
@@ -715,7 +715,7 @@
     "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
     "language": "HTML",
     "topics": [],
-    "stars": 11264,
+    "stars": 11273,
     "archived": false,
     "pushed_at": "2026-07-09T17:49:44Z",
     "homepage": "",
@@ -733,7 +733,7 @@
       "explanatory-math-videos",
       "python"
     ],
-    "stars": 97012,
+    "stars": 97046,
     "archived": false,
     "pushed_at": "2026-09-09T16:23:48Z",
     "homepage": "",
@@ -746,9 +746,9 @@
     "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
     "language": "TypeScript",
     "topics": [],
-    "stars": 44736,
+    "stars": 44915,
     "archived": false,
-    "pushed_at": "2026-11-27T05:34:01Z",
+    "pushed_at": "2026-11-28T05:22:00Z",
     "homepage": "",
     "license": "MIT",
     "starred_at": "2026-09-01T09:49:16Z"
@@ -774,7 +774,7 @@
       "slide-generator",
       "slides"
     ],
-    "stars": 11221,
+    "stars": 11259,
     "archived": false,
     "pushed_at": "2026-11-06T08:26:30Z",
     "homepage": "",
@@ -792,7 +792,7 @@
       "python",
       "rag"
     ],
-    "stars": 145873,
+    "stars": 145981,
     "archived": false,
     "pushed_at": "2026-11-18T05:25:32Z",
     "homepage": "https://www.theunwindai.com",
@@ -826,9 +826,9 @@
       "tutorial",
       "typescript"
     ],
-    "stars": 80671,
+    "stars": 80907,
     "archived": false,
-    "pushed_at": "2026-11-25T15:31:09Z",
+    "pushed_at": "2026-11-27T14:19:38Z",
     "homepage": "https://aiengineeringfromscratch.com",
     "license": "MIT",
     "starred_at": "2026-08-25T05:53:30Z"
@@ -860,9 +860,9 @@
       "vite",
       "work-management"
     ],
-    "stars": 63239,
+    "stars": 63292,
     "archived": false,
-    "pushed_at": "2026-11-26T14:32:46Z",
+    "pushed_at": "2026-11-27T09:36:15Z",
     "homepage": "http://plane.so",
     "license": "AGPL-3.0",
     "starred_at": "2026-08-25T03:16:32Z"
@@ -884,7 +884,7 @@
       "skills",
       "workflow-automation"
     ],
-    "stars": 36173,
+    "stars": 36219,
     "archived": false,
     "pushed_at": "2026-11-23T15:59:40Z",
     "homepage": "https://gpt-image2.canghe.ai",
@@ -906,9 +906,9 @@
       "subagent-driven-development",
       "superpowers"
     ],
-    "stars": 327661,
+    "stars": 328462,
     "archived": false,
-    "pushed_at": "2026-11-26T11:33:33Z",
+    "pushed_at": "2026-11-28T05:13:56Z",
     "homepage": "",
     "license": "MIT",
     "starred_at": "2026-08-20T03:51:24Z"
@@ -925,9 +925,9 @@
       "dsh",
       "dsh-plugin"
     ],
-    "stars": 25734,
+    "stars": 25792,
     "archived": false,
-    "pushed_at": "2026-11-26T22:53:57Z",
+    "pushed_at": "2026-11-27T22:54:30Z",
     "homepage": "https://awesome-dsh-plugin.com",
     "license": "CC0-1.0",
     "starred_at": "2026-08-19T03:29:37Z"
@@ -953,7 +953,7 @@
       "vision",
       "vision-language-model"
     ],
-    "stars": 1269,
+    "stars": 1268,
     "archived": false,
     "pushed_at": "2026-10-13T09:12:47Z",
     "homepage": "https://agent-vision.anionex.me",
@@ -987,9 +987,9 @@
       "system-design",
       "visualization"
     ],
-    "stars": 100681,
+    "stars": 101027,
     "archived": false,
-    "pushed_at": "2026-11-26T01:45:04Z",
+    "pushed_at": "2026-11-28T03:28:44Z",
     "homepage": "https://archify.si",
     "license": "Apache-2.0",
     "starred_at": "2026-08-18T09:27:52Z"
@@ -1000,7 +1000,7 @@
     "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
     "language": "Shell",
     "topics": [],
-    "stars": 170494,
+    "stars": 170684,
     "archived": false,
     "pushed_at": "2026-11-09T00:27:04Z",
     "homepage": "",
@@ -1016,7 +1016,7 @@
       "weather",
       "weather-forecast"
     ],
-    "stars": 7760,
+    "stars": 7762,
     "archived": false,
     "pushed_at": "2026-09-04T09:49:34Z",
     "homepage": "",
@@ -1029,7 +1029,7 @@
     "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
     "language": "Python",
     "topics": [],
-    "stars": 113610,
+    "stars": 113605,
     "archived": false,
     "pushed_at": "2026-08-31T17:19:19Z",
     "homepage": "",
@@ -1053,7 +1053,7 @@
       "rust",
       "text-extraction"
     ],
-    "stars": 20130,
+    "stars": 20136,
     "archived": false,
     "pushed_at": "2026-11-26T11:32:34Z",
     "homepage": "https://firecrawl.github.io/pdf-inspector/",
@@ -1085,7 +1085,7 @@
       "tui",
       "typescript"
     ],
-    "stars": 36071,
+    "stars": 36072,
     "archived": true,
     "pushed_at": "2026-11-12T08:30:31Z",
     "homepage": "http://reasonix.io/",
@@ -1119,7 +1119,7 @@
       "voice-ai",
       "whisper-alternative"
     ],
-    "stars": 9828,
+    "stars": 9832,
     "archived": false,
     "pushed_at": "2026-09-30T10:22:01Z",
     "homepage": "https://huggingface.co/spaces/FunAudioLLM/SenseVoice",
@@ -1172,7 +1172,7 @@
       "translate",
       "video-subtile"
     ],
-    "stars": 16635,
+    "stars": 16643,
     "archived": false,
     "pushed_at": "2026-09-12T06:20:49Z",
     "homepage": "https://www.videocaptioner.cn",
@@ -1191,7 +1191,7 @@
       "video-translation",
       "voice-cloning"
     ],
-    "stars": 19404,
+    "stars": 19416,
     "archived": false,
     "pushed_at": "2026-11-13T10:58:15Z",
     "homepage": "https://docs.videolingo.io",
@@ -1218,7 +1218,7 @@
       "self-study",
       "study-tools"
     ],
-    "stars": 39129,
+    "stars": 39176,
     "archived": false,
     "pushed_at": "2026-11-24T20:18:01Z",
     "homepage": "",
@@ -1231,7 +1231,7 @@
     "description": "所有小初高、大学PDF教材。",
     "language": "",
     "topics": [],
-    "stars": 85125,
+    "stars": 85161,
     "archived": false,
     "pushed_at": "2026-10-26T07:05:48Z",
     "homepage": "",
@@ -1256,10 +1256,10 @@
       "tts",
       "voice-cloning"
     ],
-    "stars": 4379,
+    "stars": 4383,
     "archived": false,
-    "pushed_at": "2026-09-06T06:19:28Z",
-    "homepage": "https://mosi.cn/models/moss-tts",
+    "pushed_at": "2026-11-28T05:22:17Z",
+    "homepage": "https://www.moss-ai.com/models/moss-tts",
     "license": "Apache-2.0",
     "starred_at": "2026-05-29T08:26:05Z"
   },
@@ -1277,7 +1277,7 @@
       "self-directed-learning",
       "tutorial"
     ],
-    "stars": 70932,
+    "stars": 70976,
     "archived": false,
     "pushed_at": "2026-11-25T06:56:57Z",
     "homepage": "https://byoungd.github.io/up/",
@@ -1298,7 +1298,7 @@
       "openai",
       "pdf"
     ],
-    "stars": 198646,
+    "stars": 198777,
     "archived": false,
     "pushed_at": "2026-11-07T00:14:01Z",
     "homepage": "",
@@ -1320,7 +1320,7 @@
       "mcp",
       "productivity"
     ],
-    "stars": 311405,
+    "stars": 311983,
     "archived": false,
     "pushed_at": "2026-11-23T04:55:48Z",
     "homepage": "https://ecc.tools",
@@ -1345,7 +1345,7 @@
       "ui-design",
       "web-design"
     ],
-    "stars": 122060,
+    "stars": 122402,
     "archived": false,
     "pushed_at": "2026-11-26T23:58:12Z",
     "homepage": "https://tasteskill.dev",
@@ -1376,7 +1376,7 @@
       "understandcode",
       "vibe-coding"
     ],
-    "stars": 94627,
+    "stars": 94742,
     "archived": false,
     "pushed_at": "2026-11-25T06:30:57Z",
     "homepage": "https://understand-anything.com/",
@@ -1404,9 +1404,9 @@
       "workflow-automation",
       "youtube-shorts"
     ],
-    "stars": 145896,
+    "stars": 146039,
     "archived": false,
-    "pushed_at": "2026-11-27T02:44:45Z",
+    "pushed_at": "2026-11-28T00:04:34Z",
     "homepage": "",
     "license": "MIT",
     "starred_at": "2026-05-28T06:01:56Z"
@@ -1422,9 +1422,9 @@
       "hellogithub",
       "python"
     ],
-    "stars": 191495,
+    "stars": 191675,
     "archived": false,
-    "pushed_at": "2026-11-27T00:14:35Z",
+    "pushed_at": "2026-11-27T12:50:49Z",
     "homepage": "https://hellogithub.com",
     "license": "",
     "starred_at": "2026-05-19T09:59:02Z"
@@ -1456,9 +1456,9 @@
       "skills",
       "tree-sitter"
     ],
-    "stars": 153932,
+    "stars": 154332,
     "archived": false,
-    "pushed_at": "2026-11-27T02:53:36Z",
+    "pushed_at": "2026-11-28T04:04:49Z",
     "homepage": "graphify.com",
     "license": "Apache-2.0",
     "starred_at": "2026-05-19T09:58:51Z"
@@ -1490,7 +1490,7 @@
       "slides",
       "ui-design"
     ],
-    "stars": 31093,
+    "stars": 31144,
     "archived": false,
     "pushed_at": "2026-11-23T06:13:20Z",
     "homepage": "",
@@ -1509,7 +1509,7 @@
       "tts",
       "video-generation"
     ],
-    "stars": 30557,
+    "stars": 30575,
     "archived": false,
     "pushed_at": "2026-06-14T12:40:58Z",
     "homepage": "https://aidc-ai.github.io/Pixelle-Video/zh",
@@ -1533,9 +1533,9 @@
       "slide",
       "slides"
     ],
-    "stars": 80596,
+    "stars": 80827,
     "archived": false,
-    "pushed_at": "2026-11-20T08:41:50Z",
+    "pushed_at": "2026-11-28T02:53:01Z",
     "homepage": "https://hugohe3.github.io/ppt-master-examples/",
     "license": "MIT",
     "starred_at": "2026-05-18T08:19:02Z"
@@ -1566,9 +1566,9 @@
       "wifi",
       "wifi-security"
     ],
-    "stars": 105310,
+    "stars": 105374,
     "archived": false,
-    "pushed_at": "2026-11-27T00:25:34Z",
+    "pushed_at": "2026-11-28T00:23:30Z",
     "homepage": "https://cognitum.one",
     "license": "MIT",
     "starred_at": "2026-05-18T08:04:40Z"
@@ -1584,7 +1584,7 @@
       "rag",
       "tutorial"
     ],
-    "stars": 88049,
+    "stars": 88113,
     "archived": false,
     "pushed_at": "2026-11-13T12:20:01Z",
     "homepage": "https://hello-agents.datawhale.cc",
@@ -1607,7 +1607,7 @@
       "typography",
       "virtualization"
     ],
-    "stars": 51107,
+    "stars": 51111,
     "archived": false,
     "pushed_at": "2026-11-25T07:02:18Z",
     "homepage": "https://chenglou.me/pretext/",
